@@ -286,8 +286,8 @@ def pilih_india():
 	if ask == "Y" or ask == "y":
 		manual()
 	print
-	print (" \033[1;97mketika crack sedang dalam proses diangka \033[1;96m100\033[1;97m")
-	print (" \033[1;97mmainkan mode pesawat selama '\033[1;96m3\033[1;97m' detik")
+	print (" \033[1;97maktifkan data mode pesawat '\033[1;96m10\033[1;97m' detik jika tidak")
+	print (" \033[1;97mmendapatkan hasil")
 	print(" \033[1;97mProses crack \33[3;1m\033[1;92msedang berjalan...\33[0;1m")
 	print
 
@@ -365,8 +365,8 @@ def manual():
 	if len(pw) ==0:
 		exit(" *  isi yang bener, tidak boleh kosong")
 	print("\033[1;97m jumlah password yang di buat : \033[1;93m" +str(len(pw)))
-	print (" \033[1;97mketika crack sedang dalam proses diangka \033[1;96m100\033[1;97m")
-	print (" \033[1;97mmainkan mode pesawat selama '\033[1;96m3\033[1;97m' detik")
+	print (" \033[1;97maktifkan data mode pesawat '\033[1;96m10\033[1;97m' detik jika tidak")
+	print (" \033[1;97mmendapatkan hasil")
 	print(" \033[1;97mProses crack \33[3;1m\033[1;92msedang berjalan...\33[0;1m")
 	print
 	
