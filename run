@@ -16,7 +16,7 @@ import urllib
 import cookielib
 import requests
 import uuid
-import ipaddress
+#import ipaddress
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from time import sleep
